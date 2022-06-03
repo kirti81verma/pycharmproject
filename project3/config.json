@@ -1,0 +1,16 @@
+{
+  "test":
+  {
+    "local_server":"True",
+    "local_uri": "mysql+pymysql://root:root12345@localhost:3306/test2",
+    "fb_uri": "https://facebook.com/test2",
+    "tw": "https://twitter.com/test2",
+    "gh_uri": "https://github.com/test2",
+    "blog_name": "coding",
+    "gmail_user": "kirti81verma@gmail.com",
+    "gmail_password":"@Kirti12345",
+    "blogs_no":3,
+    "admin_user":"kirti",
+    "admin_password":12345
+  }
+}
